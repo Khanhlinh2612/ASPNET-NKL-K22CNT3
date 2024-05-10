@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET-NKL\\NKL.Lession03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|d:\\asp.net-nkl\\nkl.lession03\\nkl.lession03\\views\\nklstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|solutionrelative:nkl.lession03\\views\\nklstudent\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|d:\\asp.net-nkl\\nkl.lession03\\nkl.lession03\\views\\nklstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|solutionrelative:nkl.lession03\\views\\nklstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|d:\\asp.net-nkl\\nkl.lession03\\nkl.lession03\\controllers\\nklstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FEDC1C-F831-4C55-BBF4-9DC1B6FBDBCC}|NKL.Lession03\\NKL.Lession03.csproj|solutionrelative:nkl.lession03\\controllers\\nklstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Views\\NKLStudent\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "NKL.Lession03\\Views\\NKLStudent\\AddStudent.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Views\\NKLStudent\\AddStudent.cshtml",
+              "RelativeToolTip": "NKL.Lession03\\Views\\NKLStudent\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:30:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Views\\NKLStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "NKL.Lession03\\Views\\NKLStudent\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Views\\NKLStudent\\Index.cshtml",
+              "RelativeToolTip": "NKL.Lession03\\Views\\NKLStudent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:29:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NKLStudentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Controllers\\NKLStudentController.cs",
+              "RelativeDocumentMoniker": "NKL.Lession03\\Controllers\\NKLStudentController.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\NKL.Lession03\\NKL.Lession03\\Controllers\\NKLStudentController.cs",
+              "RelativeToolTip": "NKL.Lession03\\Controllers\\NKLStudentController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:52:09.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
